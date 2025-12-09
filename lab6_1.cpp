@@ -20,7 +20,7 @@ int main(){
         }
     }
 
-    cout << "\n#Even numbers = " << even << endl;
+    cout << "#Even numbers = " << even << endl;
     cout << "#Odd numbers = " << odd << endl;
 
     return 0;
